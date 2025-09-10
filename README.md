@@ -1,0 +1,1 @@
+This is my first project in Github. There is a dataset that I working on called Student Performance Analysis. It has grades relating to two Portugeuse Schools, and demopgrahics and social habits as some other variables. I am going to upload code relating to SQL, Tableau and R. 
