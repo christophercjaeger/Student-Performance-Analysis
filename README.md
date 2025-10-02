@@ -13,8 +13,8 @@ This is my first project in Github. There is a dataset that I am working on call
 - **Book1.twb**  
   This file is the first iteration of the Tableau analysis of the student performance data. It will be updated in time with new and cleaner dashboards and sheets.
 
-- **R-Markdown analysis (coming soon)**  
-  An R-Markdown analysis will also be added shortly, including analyses such as regression analysis.
+- **R- Analysis**  
+  An Ranalysis has also be added, including analyses such as regression analysis, and random forest.
 
 ---
 
